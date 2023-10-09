@@ -23,3 +23,6 @@ let myArray = [1,2,3,4];
 }
 
 export default App
+
+//My React Learning Repos and Demo Projects.
+//my_react_learning_repos
