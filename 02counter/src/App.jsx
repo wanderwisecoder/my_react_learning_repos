@@ -15,7 +15,7 @@ function App() {
   }
   const decrement = () =>{
     if(count === 0)
-    alert("Value can not exceed below 0.")
+    alert("Value can not exceed below 0..")
     else
     setCount(count-1)
   }
